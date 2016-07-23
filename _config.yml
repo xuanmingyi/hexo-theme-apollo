@@ -1,8 +1,7 @@
 menu:
     Blog: /
-    Archive: /archives/
-    Weibo: http://weibo.com/sunchongsheng
-    GitHub: https://github.com/pinggod
+    Weixin: /archives
+    GitHub: https://github.com/xuanmingyi
     Rss: /atom.xml
 
 favicon: /favicon.png
@@ -15,7 +14,7 @@ duoshuo:
 
 # Analytics
 # google-analytics:
-ga: UA-65933410-1
+ga:
 
 # Copyright Infomation
 startyear: 2015
